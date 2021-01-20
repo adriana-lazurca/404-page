@@ -1,0 +1,47 @@
+h1 {
+  position: relative;
+  text-align: center;
+}
+
+/*img {
+  width: 200px;
+  height: 200px;
+}*/
+
+#corona {
+  width: 100%;
+}
+
+#shot {
+  width: 100%;
+}
+
+article {
+  position: relative;
+}
+
+#firstfigure {
+  position: relative;
+  margin: auto;
+  width: 60%;
+}
+
+#secondfigure {
+  position: absolute;
+  top: 115px;
+  right: 93px;
+  width: 219px;
+}
+
+aside,
+footer {
+  position: fixed;
+}
+
+aside {
+  bottom: 40px;
+}
+
+footer {
+  bottom: 0;
+}
