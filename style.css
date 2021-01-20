@@ -1,6 +1,14 @@
+body {
+  background-color: #5d8f94;
+}
+
 h1 {
-  position: relative;
+  osition: relative;
   text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px #4b4fde;
+  font-family: papyrus;
+  font-size: 40px;
 }
 
 /*img {
@@ -23,19 +31,21 @@ article {
 #firstfigure {
   position: relative;
   margin: auto;
-  width: 60%;
+  width: 36%;
 }
 
 #secondfigure {
   position: absolute;
-  top: 115px;
-  right: 93px;
-  width: 219px;
+  top: -20px;
+  right: -20px;
+  width: 180px;
 }
 
 aside,
 footer {
   position: fixed;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: x-large;
 }
 
 aside {
